@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import os
+import os, json
 import random
 
 # --- 상수 정의 ---
